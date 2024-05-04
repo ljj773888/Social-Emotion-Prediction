@@ -1,6 +1,8 @@
 # Social-Emotion-Prediction
 A collection of papers on the field of **Social Emotion Prediction**.
 
+![Example Image](pic/emotion.png "Emotion Distribution")
+
 Social emotion differs from the emotion expressed by the text's writer, as it reflects the collective emotional response of the audience to the content. The task involves identifying which emotions a text is likely to provoke in its readers, considering that these responses can be influenced by individual backgrounds and personal experiences, which are often unknown.
 
 ## Problem Definition
@@ -78,6 +80,18 @@ This collenction categorizes the methods into three main types based on their ap
 - (*IEEE IAEAC*) Social Emotion Prediction with Attention-based Hierarchical Neural Network [[paper](https://ieeexplore.ieee.org/document/8998031)]
 - (*IEEE ICMLA*) Transfer Learning model for Social Emotion Prediction using Writers Emotions in Comments [[paper](https://ieeexplore.ieee.org/document/10069074)]
 - (*ACL'20*) Learning Emotion from 100 Observations: Unexpected Robustness of Deep Learning under Strong Data Limitations [[paper](https://aclanthology.org/2020.peoples-1.13.pdf)]
+
+## Basic Models Or Componemt In This Field(Especially In Deep Learning Methods):
+- Latent dirichlet allocation (*LDA*) [[paper](https://dl.acm.org/doi/10.5555/944919.944937)]
+- Convolutional Neural Networks for Sentence Classification [[paper](https://arxiv.org/abs/1408.5882)]
+- Long Short-Term Memory (*LSTM*) [[paper](https://ieeexplore.ieee.org/abstract/document/6795963)]
+- SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise Labelling (*Encoder-Decoder*) [[paper](https://arxiv.org/abs/1505.07293#:~:text=SegNet%20is%20composed%20of%20a%20stack%20of%20encoders,stack%20to%20full%20input%20image%20size%20feature%20maps.)]
+- Attention Is All You Need (*Transfomer*) [[paper](https://arxiv.org/abs/1706.03762)]
+- Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling (*GRU*) [[paper](https://arxiv.org/abs/1412.3555)]
+- Efficient Estimation of Word Representations in Vector Space （*Word2Vec*）[[paper](https://arxiv.org/abs/1301.3781)]
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT) [[paper](https://aclanthology.org/N19-1423/)]
+  
+
 
 
 
