@@ -23,10 +23,12 @@ Social emotion differs from the emotion expressed by the text's writer, as it re
 
 The goal is to predict the social emotion distribution $\( l_i \)$ for each article based on its content and associated comments.
 
-## Dataset
+## Dataset & Surveys
 - (*NLPCC'20*) A Large-Scale Chinese Short-Text Conversation Dataset [[paper](https://arxiv.org/abs/2008.03946)] [[code](https://github.com/huggingface/datasets)]
 - (*ACL'20*) Hashtags, Emotions, and Comments: A Large-Scale Dataset to Understand Fine-Grained Social Emotions to Online Topics [[paper](https://aclanthology.org/2020.emnlp-main.106/)] [[code](https://github.com/polyusmart/HEC-Dataset)]
-- (*IEEE Transactions on Computational Social Systems*) LCSEP: A Large-Scale Chinese Dataset for Social Emotion Prediction to Online Trending Topics [[paper](https://ieeexplore.ieee.org/document/10379492)] 
+- (*ACL'20*) Goodnewseveryone: A corpus of news headlines annotated with emotions, semantic roles, and reader perception. [[paper](https://aclanthology.org/2020.lrec-1.194/)] 
+- (*IEEE Transactions on Computational Social Systems*) LCSEP: A Large-Scale Chinese Dataset for Social Emotion Prediction to Online Trending Topics [[paper](https://ieeexplore.ieee.org/document/10379492)]
+- (*DATA'21*) A Survey of Social Emotion Prediction Method [[paper](https://researchr.org/publication/AlsaediBGT21)]
 
 
 
