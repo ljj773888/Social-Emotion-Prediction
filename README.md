@@ -73,10 +73,10 @@ This collenction categorizes the methods into three main types based on their ap
 - (CAC'18) CNN-SVM with Embedded Recurrent Structure for Social Emotion Prediction [[paper](https://ieeexplore.ieee.org/document/9552625)]
 - (*ICAART'22*) Improving Social Emotion Prediction with Reader Comments Integration [[paper](https://livrepository.liverpool.ac.uk/3150843/)]
 - (*Neural computing & applications*) Multi-document influence on readers: augmenting social emotion prediction by learning document interactions [[paper](https://link.springer.com/article/10.1007/s00521-024-09420-8)]
-- (*IEEE SNAMS*)Multi-Label Emotion Classification for ArabicTweets [[paper](https://ieeexplore.ieee.org/document/8931715)]
+- (*IEEE SNAMS*) Multi-Label Emotion Classification for ArabicTweets [[paper](https://ieeexplore.ieee.org/document/8931715)]
 - (*IEEE Transactions on Affective Computing*) Predicting Social Emotions from Readers’ Perspective [[paper](https://link.springer.com/article/10.1007/s00521-024-09420-8)]
 - (*IEEE IAEAC*) Social Emotion Prediction with Attention-based Hierarchical Neural Network [[paper](https://ieeexplore.ieee.org/document/8998031)]
-- (*IEEE ICMLA*)Transfer Learning model for Social Emotion Prediction using Writers Emotions in Comments [[paper](https://ieeexplore.ieee.org/document/10069074)]
+- (*IEEE ICMLA*) Transfer Learning model for Social Emotion Prediction using Writers Emotions in Comments [[paper](https://ieeexplore.ieee.org/document/10069074)]
 - (*ACL'20*) Learning Emotion from 100 Observations: Unexpected Robustness of Deep Learning under Strong Data Limitations [[paper](https://aclanthology.org/2020.peoples-1.13.pdf)]
 
 
