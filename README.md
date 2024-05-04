@@ -30,8 +30,42 @@ The goal is to predict the social emotion distribution $\( l_i \)$ for each arti
 - (*Springer'24*) MVIndEmo: a dataset for micro video public-induced emotion prediction on social media [[paper](https://link.springer.com/article/10.1007/s00530-023-01221-8)] [[code](https://github.com/jjInsper/NeurIPS-Dataset-Induced-Emotion/tree/master)]
 - (*DATA'21*) A Survey of Social Emotion Prediction Method [[paper](https://researchr.org/publication/AlsaediBGT21)]
 - (*ACL'20*) Hashtags, Emotions, and Comments: A Large-Scale Dataset to Understand Fine-Grained Social Emotions to Online Topics [[paper](https://aclanthology.org/2020.emnlp-main.106/)] [[code](https://github.com/polyusmart/HEC-Dataset)]
-- ISEAR: International Survey on Emotion Antecedents and Reactions [[code](https://www.kaggle.com/datasets/faisalsanto007/isear-dataset)]
-- SinaNews: a Chinese news dataset that contains news articles collected from the social channel of the Sina News [[code](https://news.sina.com.cn/ui_index.shtml)]
+- (*ACL'16*) SemEval-2016 Task 5: Aspect Based Sentiment Analysis [[paper](https://aclanthology.org/S16-1002/)]
+- ISEAR: International Survey on Emotion Antecedents and Reactions [[source](https://www.kaggle.com/datasets/faisalsanto007/isear-dataset)]
+- SinaNews: a Chinese news dataset that contains news articles collected from the social channel of the Sina News [[source](https://news.sina.com.cn/ui_index.shtml)]
+
+## Methods Used In This Field
+This collenction categorizes the methods into three main types based on their approach:
+1. Word-based Methods: These methods rely on the assumption that every word, even neutral ones, can be linked to certain emotions. They often use bag-of-words models, dictionaries, and lexical resources to classify emotions.
+ 
+2. Topic-based Methods: These methods associate emotions with broader topics or events rather than individual words. They typically use topic modeling techniques, like Latent Dirichlet Allocation (LDA), to create layers that capture the emotional undertones of different topics.
+  
+3. Deep Learning Methods: Utilizing advanced neural network architectures, these methods aim to capture semantic and syntactic nuances that affect emotional interpretation. They often employ embeddings and deep neural networks to better understand the complex patterns that convey emotional content.
+
+### Word-based Methods
+- (*Knowledge-Based Systems*) Hidden topic–emotion transition model for multi-levelsocial emotion detection [[paper](https://www.sciencedirect.com/science/article/pii/S0950705118305586)]
+- (*ICAART'22*) Improving Social Emotion Prediction with Reader Comments Integration [[paper](https://livrepository.liverpool.ac.uk/3150843/)]
+- (*IEEE International Conference on Machine Learning and Cybernetics*) Predicting Social Emotions based on Textual Relevance for News Documents [[paper](https://ieeexplore.ieee.org/document/9019908)]
+- (*IEEE WIECON-ECE*) Emotion prediction of news article from reader's prespective based on multi-label classification[[paper](https://ieeexplore.ieee.org/document/6359686)]
+- (*International Conference on Data Technologies and Applications*) EPNDR: Emotion prediction for news documents based on readers’ perspectives. [[paper](https://www.semanticscholar.org/paper/EPNDR%3A-Emotion-Prediction-For-News-Documents-Based-RamyaR-Madhura/8f2f47f23d0501ae9f6526aa4910ab2fcedeba42)]
+
+### Topic-based Methods
+- (*AIII'16*) Topic Modeling in Twitter: Aggregating Tweets by Conversations [[paper](https://lsm.media.mit.edu/papers/topic-modeling-twitter.pdf)]
+- (*ACL'21*) Emotion Modeling from Writer/Reader Perspectives Using a Microblog Dataset [[paper](https://aclanthology.org/W11-3703/)]
+- (*ICAART'22*) Improving Social Emotion Prediction with Reader Comments Integration [[paper](https://livrepository.liverpool.ac.uk/3150843/)]
+- (*arXiv 2018.12*) Latent Dirichlet Allocation and Topic modeling (LDA): models, applications, a survey [[paper](https://arxiv.org/abs/1711.04305)]
+- (*Expert Systems with Applications'18*) Universal affective model for Readers’ emotion classification over short texts [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417418304445)]
+- (*IEEE BigComp*) Weighted multi-label classification model for sentiment analysis of online news [[paper](https://ieeexplore.ieee.org/document/7425916)]
+- (*IEEE Intelligent Systems*) Contextual Sentiment Topic Model for Adaptive Social Emotion Classification [[paper](https://ieeexplore.ieee.org/document/7325170)]
+- (*Future Generation Computer Systems'14*)Towards building a social emotion detection system for online news [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X13002033)]
+
+
+### Deep Learning Methods
+- (*Springer'20*) Readers’ affect: predicting and understanding readers’ emotions with deep learning [[paper](https://link.springer.com/article/10.1186/s40537-022-00614-2)]
+- (*WWW'20*) An End-to-end Topic-Enhanced Self-Attention Network (TESAN) for Social Emotion Classification [[paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380286)] [[code](https://github.com/CariaWang/TESAN)]
+- (Nature'23) Emotion classification for short texts: an improved multi-label method [[paper](https://www.nature.com/articles/s41599-023-01816-6)]
+
+
 
 
 
