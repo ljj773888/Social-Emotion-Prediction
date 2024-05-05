@@ -38,11 +38,11 @@ The goal is to predict the social emotion distribution $\( l_i \)$ for each arti
 
 ## Methods Used In This Field
 This collenction categorizes the methods into three main types based on their approach:
-1. Word-based Methods: These methods rely on the assumption that every word, even neutral ones, can be linked to certain emotions. They often use bag-of-words models, dictionaries, and lexical resources to classify emotions.
+1. **Word-based Methods**: These methods rely on the assumption that every word, even neutral ones, can be linked to certain emotions. They often use bag-of-words models, dictionaries, and lexical resources to classify emotions.
  
-2. Topic-based Methods: These methods associate emotions with broader topics or events rather than individual words. They typically use topic modeling techniques, like Latent Dirichlet Allocation (LDA), to create layers that capture the emotional undertones of different topics.
+2. **Topic-based Methods**: These methods associate emotions with broader topics or events rather than individual words. They typically use topic modeling techniques, like Latent Dirichlet Allocation (LDA), to create layers that capture the emotional undertones of different topics.
   
-3. Deep Learning Methods: Utilizing advanced neural network architectures, these methods aim to capture semantic and syntactic nuances that affect emotional interpretation. They often employ embeddings and deep neural networks to better understand the complex patterns that convey emotional content.
+3. **Deep Learning Methods**: Utilizing advanced neural network architectures, these methods aim to capture semantic and syntactic nuances that affect emotional interpretation. They often employ embeddings and deep neural networks to better understand the complex patterns that convey emotional content.
 
 ### Word-based Methods:
 - (*Knowledge-Based Systems*) Hidden topic–emotion transition model for multi-levelsocial emotion detection [[paper](https://www.sciencedirect.com/science/article/pii/S0950705118305586)]
