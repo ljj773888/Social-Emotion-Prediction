@@ -64,8 +64,8 @@ This collenction categorizes the methods into three main types based on their ap
 
 ### Deep Learning Methods:
 - (*ACL'23*) Transformer-based Prediction of Emotional Reactions to Online Social Network Posts [[paper](https://aclanthology.org/2023.wassa-1.31/)]
-- (*ACL'22*) XLM-EMO: Multilingual Emotion Prediction in Social Media Text [paper](https://aclanthology.org/2022.wassa-1.18/)] [[code](https://github.com/milanlproc/xlm-emo)]
-- (*ACL'22*) Emotion Analysis of Writers and Readers of Japanese Tweets on Vaccinations [paper](https://aclanthology.org/2022.wassa-1.10/)] [[code](https://github.com/Ramos-Ramos/BERT-Japan-vaccination)]
+- (*ACL'22*) XLM-EMO: Multilingual Emotion Prediction in Social Media Text [[paper](https://aclanthology.org/2022.wassa-1.18/)] [[code](https://github.com/milanlproc/xlm-emo)]
+- (*ACL'22*) Emotion Analysis of Writers and Readers of Japanese Tweets on Vaccinations [[paper](https://aclanthology.org/2022.wassa-1.10/)] [[code](https://github.com/Ramos-Ramos/BERT-Japan-vaccination)]
 - (*ACL'21*) Personal Bias in Prediction of Emotions Elicited by Textual Opinions [[paper](https://aclanthology.org/2021.acl-srw.26/)] [[code](https://github.com/clarin-pl/personal-bias)]
 - (*ACL'18*) AnAnalysis of Annotated Corpora for Emotion Classification in Text [[paper](https://aclanthology.org/C18-1179/)]
 - (*ACL'18*) NLP at IEST 2018: BiLSTM-Attention and LSTM-Attention via Soft Voting in Emotion Classification [[paper](https://aclanthology.org/W18-6226/)] [[code](https://github.com/lauchblatt/emotions_in_drama)]
