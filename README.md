@@ -83,7 +83,7 @@ This collenction categorizes the methods into three main types based on their ap
 - (*IEEE ICMLA*) Transfer Learning model for Social Emotion Prediction using Writers Emotions in Comments [[paper](https://ieeexplore.ieee.org/document/10069074)]
 - (*ACL'20*) Learning Emotion from 100 Observations: Unexpected Robustness of Deep Learning under Strong Data Limitations [[paper](https://aclanthology.org/2020.peoples-1.13.pdf)]
 
-## Basic Models Or Componemt In This Field(Especially In Deep Learning Methods):
+## Basic Models Or Componemt In This Field (Especially In Deep Learning Methods):
 - Latent dirichlet allocation (*LDA*) [[paper](https://dl.acm.org/doi/10.5555/944919.944937)]
 - Convolutional Neural Networks for Sentence Classification [[paper](https://arxiv.org/abs/1408.5882)]
 - Long Short-Term Memory (*LSTM*) [[paper](https://ieeexplore.ieee.org/abstract/document/6795963)]
