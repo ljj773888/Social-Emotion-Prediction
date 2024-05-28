@@ -93,7 +93,7 @@ This collenction categorizes the methods into three main types based on their ap
 - Efficient Estimation of Word Representations in Vector Space （*Word2Vec*）[[paper](https://arxiv.org/abs/1301.3781)]
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (BERT) [[paper](https://aclanthology.org/N19-1423/)]
   
-## ACL Paper About This Field (2 Paper Per Week)
+## Reread Paper About This Field (2 Paper Per Week)
 
 
 
